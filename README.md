@@ -1,79 +1,214 @@
-<div align="center">
-  <h1>Hi 👋, I'm Pushkar Kirange</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Intuitive+UI%2FUX;React+%7C+Next.js+%7C+TypeScript;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
-  <br>
-  <p>
-    <a href="https://linkedin.com/in/pushkar-kirange" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/pushkarkirange/" target="_blank">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-    </a>
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=pushkar236&label=Profile%20Views&color=0D1117&style=flat-square" alt="Profile views" />
-</div>
+<h1 align="center">Hi 👋, I'm Pushkar Kirange</h1>
 
-<br>
+<h3 align="center">🚀 A Passionate Web Developer from India</h3>
 
-## 👨‍💻 About Me
-I'm a Web Developer from India who loves building clean, scalable, and user-centric web applications. When I'm not debugging, I'm exploring advanced React patterns and optimizing UI performance.
 
-- 🔭 **Currently crafting:** [Flex-ify](https://flexi-fy.vercel.app/) 
-- 🌱 **Currently mastering:** Next.js, TypeScript & Advanced React Patterns
-- 💬 **Ask me about:** Frontend Architecture, TailwindCSS, and Javascript quirks.
 
-<br>
+<p align="center">
 
-## 🚀 Featured Work
+  <img src="https://komarev.com/ghpvc/?username=pushkar236&label=Profile%20views&color=0e75b6&style=flat" alt="pushkar236" />
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Flex-ify](https://flexi-fy.vercel.app/)** | *Add a crisp 1-2 sentence description of what Flex-ify actually does here.* | `React` `TailwindCSS` `Node.js` |
-| **[Project 2 Name](#)** | *Short description of another great project you built.* | `Next.js` `TypeScript` |
-
-<br>
-
-## 🛠️ Technical Arsenal
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" />
 </p>
 
-### ⚙️ Backend & Database
+
+
+---
+
+
+
+### 💻 About Me  
+
+- 🔭 I’m currently working on **[Flex-ify](https://flexi-fy.vercel.app/)**  
+
+- 🌱 I’m learning **Next.js, TypeScript & Advanced React Patterns**  
+
+- 💬 Ask me about **React, JavaScript, TailwindCSS, Node.js**  
+
+- ⚡ Fun fact: *I love turning coffee ☕ into clean code 💻*  
+
+
+
+---
+
+
+
+### 🤝 Connect with Me  
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <a href="https://linkedin.com/in/pushkar-kirange" target="blank">
+
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+
+  </a>
+
+  <a href="https://leetcode.com/u/pushkarkirange/" target="blank">
+
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+
+  </a>
+
 </p>
 
-### 🔧 Tools & Workflow
+
+
+---
+
+
+
+### 🛠️ Languages & Tools  
+
+
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/>
+
+  </a>
+
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+
+  </a>
+
 </p>
 
-<br>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushkar236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkar236&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkar236&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=pushkar236&theme=tokyonight&row=2&column=3&no-bg=true&no-frame=true" alt="GitHub Trophies" width="48%" />
-</div>
+
+
+### 📊 GitHub Stats  
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pushkar236&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkar236&theme=tokyonight" alt="GitHub Streak" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkar236&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</p>
+
+
+
+---
+
+
+
+### 🏆 GitHub Achievements  
+
+<p align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=pushkar236&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+
+</p>
+
