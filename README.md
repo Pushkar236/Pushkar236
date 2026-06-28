@@ -9,9 +9,9 @@
 
 ### 💻 About Me  
 - 🔭 I’m currently working on **[OnGo]([https://ongo-mauve.vercel.app/])**  
-- 🌱 I’m learning **Next.js, TypeScript & Advanced React Patterns**  
-- 💬 Ask me about **React, JavaScript, TailwindCSS, Node.js**  
-- ⚡ Fun fact: *I love turning coffee ☕ into clean code 💻*  
+- 🌱 Exploring **Things's that are HOT in current Tech market**  
+- 💬 I can lowkey be a **Creative Director**  
+- ⚡ Fun fact: *I love turning coffee ☕ into clean code 💻 using Claude code*  
 
 ---
 
