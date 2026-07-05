@@ -105,11 +105,11 @@
 | **pushkar-portfolio** | TypeScript | [Live](https://pushkar-portfolio-mu.vercel.app) · [Code](https://github.com/Pushkar236/pushkar-portfolio) |
 | **ongo** | TypeScript | [Live](https://ongo-mauve.vercel.app) · [Code](https://github.com/Pushkar236/ongo) |
 | **fakenewsDetector** | TypeScript | [Code](https://github.com/Pushkar236/fakenewsDetector) |
+| **weaponDetection** | TypeScript | [Code](https://github.com/Pushkar236/weaponDetection) |
 | **JavaScript-Game-2048** | JavaScript | [Code](https://github.com/Pushkar236/JavaScript-Game-2048) |
 | **whatsapp-chat-simulation** | CSS | [Code](https://github.com/Pushkar236/whatsapp-chat-simulation) |
 | **pccoe-management-app** | JavaScript | [Code](https://github.com/Pushkar236/pccoe-management-app) |
 | **Ticket-Booking-System** | CSS | [Code](https://github.com/Pushkar236/Ticket-Booking-System) |
-| **Browse-History-Simulation** | CSS | [Code](https://github.com/Pushkar236/Browse-History-Simulation) |
 
 <sub>↻ Auto-curated by <a href="https://ongo-mauve.vercel.app">OnGo</a> · updated 2026-07-05</sub>
 <!-- ONGO:END -->
