@@ -111,5 +111,5 @@
 | **Ticket-Booking-System** | CSS | [Code](https://github.com/Pushkar236/Ticket-Booking-System) |
 | **Browse-History-Simulation** | CSS | [Code](https://github.com/Pushkar236/Browse-History-Simulation) |
 
-<sub>↻ Auto-curated by <a href="https://ongo-mauve.vercel.app">OnGo</a> · updated 2026-09-17</sub>
+<sub>↻ Auto-curated by <a href="https://ongo-mauve.vercel.app">OnGo</a> · updated 2026-09-21</sub>
 <!-- ONGO:END -->
