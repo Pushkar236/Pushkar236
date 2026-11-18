@@ -111,5 +111,5 @@
 | **whatsapp-chat-simulation** | CSS | [Code](https://github.com/Pushkar236/whatsapp-chat-simulation) |
 | **pccoe-management-app** | JavaScript | [Code](https://github.com/Pushkar236/pccoe-management-app) |
 
-<sub>↻ Auto-curated by <a href="https://ongo-mauve.vercel.app">OnGo</a> · updated 2026-11-17</sub>
+<sub>↻ Auto-curated by <a href="https://ongo-mauve.vercel.app">OnGo</a> · updated 2026-11-18</sub>
 <!-- ONGO:END -->
