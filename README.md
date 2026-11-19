@@ -1,5 +1,5 @@
-<img src="assets/header-dark.svg#gh-dark-mode-only" width="100%" alt="Pushkar Kirange. CS undergrad, class of 2027. I break and fix distributed systems, ship AI products, and send fixes to Kafka, NATS and Testcontainers.">
-<img src="assets/header-light.svg#gh-light-mode-only" width="100%" alt="Pushkar Kirange. CS undergrad, class of 2027. I break and fix distributed systems, ship AI products, and send fixes to Kafka, NATS and Testcontainers.">
+<img src="assets/hero-live-dark.svg#gh-dark-mode-only" width="100%" alt="Pushkar Kirange. CS undergrad, class of 2027. I break and fix distributed systems, ship AI products, and send fixes to Kafka, NATS and Testcontainers.">
+<img src="assets/hero-live-light.svg#gh-light-mode-only" width="100%" alt="Pushkar Kirange. CS undergrad, class of 2027. I break and fix distributed systems, ship AI products, and send fixes to Kafka, NATS and Testcontainers.">
 
 [portfolio](https://pushkar-portfolio-mu.vercel.app) &nbsp;/&nbsp; [linkedin](https://linkedin.com/in/pushkar-kirange) &nbsp;/&nbsp; [leetcode](https://leetcode.com/u/pushkarkirange/) &nbsp;/&nbsp; [pdkirange236@gmail.com](mailto:pdkirange236@gmail.com)
 
