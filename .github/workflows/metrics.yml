@@ -1,0 +1,59 @@
+# Live profile cards, generated with lowlighter/metrics (https://github.com/lowlighter/metrics)
+name: Metrics
+on:
+  schedule: [{cron: "30 3 * * *"}]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Notable contributions
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_notable_types: commit, pull_request
+
+      - name: Languages
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
+
+      - name: Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          plugin_achievements_limit: 8
