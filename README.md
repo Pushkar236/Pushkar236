@@ -3,10 +3,8 @@
 
 [portfolio](https://pushkar-portfolio-mu.vercel.app) &nbsp;/&nbsp; [linkedin](https://linkedin.com/in/pushkar-kirange) &nbsp;/&nbsp; [leetcode](https://leetcode.com/u/pushkarkirange/) &nbsp;/&nbsp; [pdkirange236@gmail.com](mailto:pdkirange236@gmail.com)
 
-<a href="https://github.com/search?q=author%3APushkar236+is%3Apr+-user%3APushkar236&type=pullrequests">
-  <img src="assets/board-dark.svg#gh-dark-mode-only" width="100%" alt="My open-source pull requests, merged and in review">
-  <img src="assets/board-light.svg#gh-light-mode-only" width="100%" alt="My open-source pull requests, merged and in review">
-</a>
+<img src="assets/board-dark.svg#gh-dark-mode-only" width="100%" alt="My open-source pull requests, merged and in review">
+<img src="assets/board-light.svg#gh-light-mode-only" width="100%" alt="My open-source pull requests, merged and in review">
 
 > Right now I'm building [HireArena](https://hirearena-tan.vercel.app): hiring where early-career engineers show what they can do, instead of getting a score from a black box.
 
