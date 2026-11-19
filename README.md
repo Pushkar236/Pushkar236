@@ -1,9 +1,14 @@
-<img src="assets/header-dark.svg#gh-dark-mode-only" width="100%" alt="Pushkar Kirange. CS undergrad, class of 2027. I break and fix distributed systems.">
-<img src="assets/header-light.svg#gh-light-mode-only" width="100%" alt="Pushkar Kirange. CS undergrad, class of 2027. I break and fix distributed systems.">
+<img src="assets/header-dark.svg#gh-dark-mode-only" width="100%" alt="Pushkar Kirange. CS undergrad, class of 2027. I break and fix distributed systems, ship AI products, and send fixes to Kafka, NATS and Testcontainers.">
+<img src="assets/header-light.svg#gh-light-mode-only" width="100%" alt="Pushkar Kirange. CS undergrad, class of 2027. I break and fix distributed systems, ship AI products, and send fixes to Kafka, NATS and Testcontainers.">
 
 [portfolio](https://pushkar-portfolio-mu.vercel.app) &nbsp;/&nbsp; [linkedin](https://linkedin.com/in/pushkar-kirange) &nbsp;/&nbsp; [leetcode](https://leetcode.com/u/pushkarkirange/) &nbsp;/&nbsp; [pdkirange236@gmail.com](mailto:pdkirange236@gmail.com)
 
-> Lately I've been fixing bugs in libraries I use. Last one merged: [a Kafka consumer that died whenever partition leaders moved](https://github.com/platformatic/kafka/pull/502). When I'm not doing that, I'm building [HireArena](https://hirearena-tan.vercel.app).
+<a href="https://github.com/search?q=author%3APushkar236+is%3Apr+-user%3APushkar236&type=pullrequests">
+  <img src="assets/board-dark.svg#gh-dark-mode-only" width="100%" alt="My open-source pull requests, merged and in review">
+  <img src="assets/board-light.svg#gh-light-mode-only" width="100%" alt="My open-source pull requests, merged and in review">
+</a>
+
+> Right now I'm building [HireArena](https://hirearena-tan.vercel.app): hiring where early-career engineers show what they can do, instead of getting a score from a black box.
 
 <img src="metrics/overview.svg" width="100%" alt="Contribution calendar, projects I have contributed to, and most used languages">
 
